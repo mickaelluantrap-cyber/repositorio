@@ -1,2 +1,3 @@
+raio = float(input("Digite o valor do raio"))
 
-3,1415
+area
