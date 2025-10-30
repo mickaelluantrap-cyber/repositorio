@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa219056-07fd-48b0-9850-77690e2abf07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/exemplo um.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios 2/exercicio11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios 2/exercicio9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula_6....py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula_6....py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura de decisão.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/aula9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplo um.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/estrutura de decisão.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicio10.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicio10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicio6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exer10.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exer10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exer11.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exer11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicio6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicios7.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicios7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicios8.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicios8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicios9.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios 2/exercicios_de_decisao/exercicios9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +48,23 @@
     "Python.aula_6....executor": "Run",
     "Python.aula_6.executor": "Run",
     "Python.aula_7.executor": "Run",
+    "Python.exer10.executor": "Run",
+    "Python.exer11.executor": "Run",
     "Python.exercicio1.executor": "Run",
     "Python.exercicio10.executor": "Run",
     "Python.exercicio11.executor": "Run",
     "Python.exercicio14.executor": "Run",
+    "Python.exercicio2.executor": "Run",
+    "Python.exercicio3.executor": "Run",
+    "Python.exercicio4.executor": "Run",
+    "Python.exercicio5.executor": "Run",
     "Python.exercicio6.executor": "Run",
     "Python.exercicio7.executor": "Run",
     "Python.exercicio8.executor": "Run",
     "Python.exercicio9.executor": "Run",
+    "Python.exercicios7.executor": "Run",
+    "Python.exercicios8.executor": "Run",
+    "Python.exercicios9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
@@ -63,8 +72,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mickael_trapp\Documents\repositorio\aulas" />
       <recent name="C:\Users\mickael_trapp\Documents\repositorio\exercicios 2" />
+      <recent name="C:\Users\mickael_trapp\Documents\repositorio\aulas" />
     </key>
   </component>
   <component name="SharedIndexes">
